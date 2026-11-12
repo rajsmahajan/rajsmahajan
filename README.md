@@ -1,3 +1,4 @@
+Hey👋, I'm Raj Sudhakar Mahajan
 # 💫 About Me:
 Building daily practice programs in C and Python<br>Beginner-friendly coding projects<br>Writing clean code and problem-solving<br>Python fundamentals and sharpening my C basics<br>C programming basics, Git, and VS Code<br>I love learning new things and coding every single day!
 
